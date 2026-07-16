@@ -58,8 +58,9 @@ export function BlogGallery({ posts, pageSize = 3 }: BlogGalleryProps) {
                   className={`inline-flex items-center justify-center rounded-full border px-4 py-2 text-sm font-medium transition-colors ${
                     isActive
                       ? "border-primary bg-primary/10 text-primary"
-                      : "border-border/60 bg-card/60 text-muted-foreground hover:border-primary/40 hover:text-foreground hover:bg-primary/5"
+                      : "cursor-pointer border-border/60 bg-card/60 text-muted-foreground hover:border-primary/40 hover:text-foreground hover:bg-primary/5"
                   }`}
+                  aria-label={`Go to page ${page}`}
                   aria-current={isActive ? "page" : undefined}
                 >
                   {page}
