@@ -80,7 +80,7 @@ export default function HomePage() {
             About
           </p>
           <p className="mt-6 text-muted-foreground leading-relaxed text-base sm:text-lg">
-          I'm a Software Engineer who enjoys building systems that solve problems and increase efficiency.
+          I&apos;m a Software Engineer who enjoys building systems that solve problems and increase efficiency.
           Outside of my work, I serve as an advisor at Endfakeball, a sports charity, and mentor students in digital skills through grassroots initiatives. I also stay active through sports.
           </p>
 
