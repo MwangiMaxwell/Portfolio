@@ -236,7 +236,7 @@ I do not think this gets fixed by asking companies to be more generous out of go
     title: "Enshittification Isn't Just a Silicon Valley Problem, It's Coming for African Platforms Too",
     excerpt:
       "The pattern that ruined so many Western platforms, get users, extract from users, extract from advertisers, is not exclusive to Facebook and Amazon. Watch for it locally.",
-    date: "2025-09-19",
+    date: "2026-07-16",
     readTime: "6 min",
     tags: ["Global Tech", "Platforms", "Africa"],
     content: `Cory Doctorow's term for platform decay describes a specific lifecycle. A platform starts by being genuinely good to its users to build a user base, then shifts to extracting value from those users to please business customers, then eventually starts extracting from the business customers too, leaving everyone worse off while the platform itself becomes barely tolerable. We have watched this happen to Facebook, to Amazon's marketplace, to Google Search. It is easy to talk about this as a uniquely American big tech pathology.
@@ -257,7 +257,7 @@ I am not arguing every growing platform is destined for this outcome. I am argui
     title: "Remote Work Didn't Democratize Tech Jobs for Africans, It Just Moved the Exploitation Offshore",
     excerpt:
       "Global companies love talking about the borderless remote workforce. The pay gap that comes with it tells a different story.",
-    date: "2026-01-08",
+    date: "2026-07-16",
     readTime: "7 min",
     tags: ["Remote Work", "Africa", "Global Tech"],
     content: `The pitch for remote work as a great equalizer for African developers sounds appealing. A talented engineer in Nairobi or Lagos no longer needs a visa or a relocation package to work for a company in London or San Francisco, they can simply apply, interview over video, and start contributing from wherever they already live. On the surface, that looks like real progress, and for a meaningful number of individual developers, it genuinely has been.
