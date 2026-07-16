@@ -75,15 +75,15 @@ export const blogPosts: BlogPost[] = [
     date: "2026-07-16",
     readTime: "8 min",
     tags: ["Fintech", "Kenya", "Opinion"],
-    content: `Everyone loves the M-Pesa origin story. Safaricom builds a mobile money product in 2007, unbanked Kenyans adopt it faster than anyone predicted, and suddenly Nairobi is the case study every fintech conference in the world wants to cite. Fair enough. It earned that reputation.
+    content: `You know Everyone loves the M-Pesa origin story. Safaricom builds a mobile money product in 2007, unbanked Kenyans adopt it faster than anyone predicted, and suddenly Nairobi is the case study every fintech conference in the world wants to cite. Fair enough. It earned that reputation.
 
-But I think we need to be honest about what happened after. M-Pesa did not just solve a problem, it captured the rails that every other financial product in Kenya now has to negotiate with. Any startup trying to move money in this country eventually runs into Safaricom's pricing, Safaricom's APIs, or Safaricom's willingness to let you exist next to them. That is not a neutral market condition, it is a chokepoint.
+But you see, I think we need to be honest about what happened after. M-Pesa did not just solve a problem, it captured the rails that every other financial product in Kenya now has to negotiate with. Any startup trying to move money in this country eventually runs into Safaricom's pricing, Safaricom's APIs, or Safaricom's willingness to let you exist next to them. That is not a neutral market condition, it is a chokepoint.
 
 Compare that to what happened in Nigeria, where no single telco owned the payment rail the way Safaricom does here. Flutterwave and Paystack had room to build because the incumbent advantage was fragmented across banks and telcos instead of consolidated in one company. Kenya got its fintech moment early, then spent the next fifteen years mostly protecting it rather than building on top of it.
 
 The startups that do break through here tend to be the ones that route around M-Pesa entirely, or that get acquired into the ecosystem rather than compete with it. That is not innovation, that is survival strategy dressed up as strategy.
 
-**What gets lost in the celebration:**
+This is basically what i'm saying  gets lost in the celebration:
 - Developer talent gets funneled into building on top of one company's infrastructure instead of inventing new infrastructure
 - Regulatory attention stays fixed on protecting the incumbent's stability rather than opening the market
 - International investors keep pointing to M-Pesa as proof Kenya is ready for more capital, while the actual next generation of products struggles to get funded because they cannot promise the same dominance
