@@ -72,7 +72,7 @@ export const blogPosts: BlogPost[] = [
     title: "The M-Pesa Trap: How Kenya's Biggest Fintech Win Became Its Innovation Ceiling",
     excerpt:
       "M-Pesa proved Kenya could lead the world in mobile money. Two decades later, it might be the reason nothing else has scaled the same way.",
-    date: "2026-07-16",
+    date: "2026-07-17",
     readTime: "8 min",
     tags: ["Fintech", "Kenya", "Opinion"],
     content: `You know Everyone loves the M-Pesa origin story. Safaricom builds a mobile money product in 2007, unbanked Kenyans adopt it faster than anyone predicted, and suddenly Nairobi is the case study every fintech conference in the world wants to cite. Fair enough. It earned that reputation.
