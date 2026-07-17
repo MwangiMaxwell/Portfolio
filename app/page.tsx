@@ -35,7 +35,7 @@ export default function HomePage() {
       <section className="relative min-h-[85vh] flex flex-col justify-center px-6 pt-24 pb-32 sm:pb-16">
         <div className="max-w-3xl mx-auto w-full">
           <p className="font-mono text-xs uppercase tracking-widest text-muted-foreground mb-6">
-            Software Engineer & ML Engineer
+            
           </p>
 
           <h1 className="text-5xl sm:text-7xl font-semibold tracking-tight leading-[1.05]">
