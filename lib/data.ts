@@ -10,7 +10,7 @@ export const siteConfig = {
     x: "https://x.com/mwas_01?s=21",
     instagram: "https://www.instagram.com/_mwangii__/",
   },
-  bio: " Co-Founder of Corvux Systems and a systems strategist. I am passionate about building resilient digital ecosystems.",
+  bio: " I like to build.",
 };
 
 export const works: Work[] = [
